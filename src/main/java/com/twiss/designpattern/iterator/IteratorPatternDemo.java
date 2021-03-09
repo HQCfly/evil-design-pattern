@@ -93,5 +93,4 @@ public class IteratorPatternDemo {
             return student;
         }
     }
-
 }

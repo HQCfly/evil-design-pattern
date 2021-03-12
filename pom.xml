@@ -19,7 +19,11 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.4</version>
         </dependency>
-
+        <dependency>
+            <groupId>com.netflix.ribbon</groupId>
+            <artifactId>ribbon</artifactId>
+            <version>2.2.2</version>
+        </dependency>
     </dependencies>
 
 </project>
